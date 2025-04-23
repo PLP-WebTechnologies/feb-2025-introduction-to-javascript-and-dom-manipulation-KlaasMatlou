@@ -1,0 +1,31 @@
+#main-title {
+    background-color: #333;
+    color: rgb(240, 208, 208);
+    padding: 10px;
+    text-align: center;
+    font-size: 3em;
+}
+
+button {
+    background-color: #81df8486;
+    border: 2px solid #000000;
+    color: rgb(12, 6, 46);
+    border-spacing: 10px;
+    text-align: center;
+    font-size: larger;
+    border-radius: 15px;
+}
+
+  
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: hsla(234, 70%, 60%, 0.164);
+}
+  
+#element-container div {
+    padding: 10px;
+    margin-top: 10px;
+    background-color:rgba(92, 68, 57, 0.377);
+}
+  
